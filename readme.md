@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ransher Raj Verma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from Uttar Pradesh, India</h3>
 
 - 🌱 I’m currently learning **Spring boot**
 
