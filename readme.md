@@ -11,7 +11,6 @@
 ## 🏆 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransherraj&theme=radical" alt="GitHub Streak" width="50%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" alt="GitHub Profile Summary" width="50%" />
 </div>  
 
