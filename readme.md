@@ -9,17 +9,27 @@
 ---
 
 ## 🏆 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" alt="GitHub Profile Summary" width="48%" />
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ransherraj&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransherraj&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📊 Weekly Development Stats  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/ransherraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ransherraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://twitter.com/ransherraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ransherraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
 </p>
 
 ---
@@ -49,13 +59,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 Weekly Development Stats  
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
