@@ -10,8 +10,8 @@
 
 ## 🏆 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" alt="GitHub Profile Summary" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" alt="GitHub Profile Summary" width="48%" />
 </div>  
 
 ---
@@ -53,18 +53,11 @@
 ---
 
 ## 📊 Weekly Development Stats  
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 30 mins ████████████████████░░░░░░
-TypeScript   10 hrs 12 mins ███████████░░░░░░░░░░░░░░
-Java         8 hrs 45 mins  █████████░░░░░░░░░░░░░░░░
-PostgreSQL   5 hrs 18 mins  ███████░░░░░░░░░░░░░░░░
-```
 <!--END_SECTION:waka-->
 
 ---
 
 ## 🎯 Fun Fact  
 🚀 Coding is my passion, but I also love **traveling and playing chess** in my free time!  
-
----
