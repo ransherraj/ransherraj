@@ -1,66 +1,107 @@
-## Hi 👋, I'm Ransher Raj Verma  
-### 🚀 A Passionate Full Stack Developer from Uttar Pradesh, India  
+<!-- Profile Section -->
+<h1 align="center">Hi 👋, I'm Ransher Raj Verma</h1>
+<h3 align="center">🚀 Full Stack Developer | Java | React | Node.js</h3>
 
-- 🌱 **Currently Learning:** Spring Boot  
-- 💬 **Ask me about:** React, Java, Node.js, PostgreSQL  
-- 📧 **How to reach me:** [ransherraj@gmail.com](mailto:ransherraj@gmail.com)  
-- 🛒 **Try out my project:** [Bookrr](https://bookrr.netlify.app)  
+<p align="center">
+  <a href="https://twitter.com/ransherraj" target="_blank"><img src="https://img.shields.io/twitter/follow/ransherraj?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://github.com/ransherraj" target="_blank"><img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" /></a>
+  <a href="https://bookrr.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge&logo=netlify" alt="Project" /></a>
+</p>
 
 ---
 
-## 🏆 GitHub Stats  
+<!-- About Section -->
+### 🧑 About Me
+- 🔭 I’m currently working on `Spring Boot + React` projects  
+- 🌱 Learning `Spring Boot` & `System Design`  
+- 💬 Ask me about **React, Java, Node.js, PostgreSQL**  
+- 📫 Reach me at [ransherraj@gmail.com](mailto:ransherraj@gmail.com)
+
+---
+
+<!-- Skills Section -->
+### 🛠 Tech Stack
+
+#### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+<!-- GitHub Stats -->
+### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ransherraj&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransherraj&theme=radical" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" width="96%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransherraj&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" width="98%" />
 </p>
 
 ---
 
-## 📊 Weekly Development Stats  
+<!-- Top Languages -->
+### 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransherraj&layout=compact&theme=radical&langs_count=8" width="50%" />
+</p>
+
+---
+
+<!-- WakaTime -->
+### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-<a href="https://twitter.com/ransherraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ransherraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
+<!-- Trophies -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ransherraj&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+### 📫 Connect With Me
 
-### 🚀 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### 💻 Frontend  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Other  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/ransherraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ransherraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:ransherraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎯 Fun Fact  
-🚀 Coding is my passion, but I also love **traveling and playing chess** in my free time!  
+### 💡 Fun Fact
+
+> 🧠 *Coding is like humor. If you have to explain it, it’s probably not that good.*
+
+---
+
