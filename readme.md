@@ -12,10 +12,10 @@
 
 <!-- About Section -->
 ### 🧑 About Me
-- 🔭 I’m currently working on `Spring Boot + React` projects  
+- 🔭 I’m currently working on `Spring Boot + React + Node` projects  
 - 🌱 Learning `Spring Boot` & `System Design`  
 - 💬 Ask me about **React, Java, Node.js, PostgreSQL**  
-- 📫 Reach me at [ransherraj@gmail.com](mailto:contact.ransherraj@gmail.com)
+- 📫 Reach me at [contact.ransherraj@gmail.com](mailto:contact.ransherraj@gmail.com)
 
 ---
 
