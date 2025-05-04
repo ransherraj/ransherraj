@@ -87,6 +87,77 @@
 <!-- WakaTime -->
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 623.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 84 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+🌆 Daytime                106 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌃 Evening                166 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  123 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Tuesday                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Wednesday                79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Thursday                 91 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Friday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/05/2025 01:44:08 UTC
 <!--END_SECTION:waka-->
 
 ---
