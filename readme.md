@@ -3,9 +3,18 @@
 <h3 align="center">🚀 Full Stack Developer | Java | React | Node.js</h3>
 
 <p align="center">
-  <a href="https://twitter.com/ransherraj" target="_blank"><img src="https://img.shields.io/twitter/follow/ransherraj?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://github.com/ransherraj" target="_blank"><img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" /></a>
-  <a href="https://bookrr.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge&logo=netlify" alt="Project" /></a>
+  <a href="https://twitter.com/ransherraj" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ransherraj?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://github.com/ransherraj" target="_blank">
+    <img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://bookrr.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge&logo=netlify" alt="Project" />
+  </a>
+  <a href="https://www.linkedin.com/in/ransherraj/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
