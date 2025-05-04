@@ -8,7 +8,6 @@
    data-show-count="false">
    Follow @ransherraj
 </a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   <a href="https://github.com/ransherraj" target="_blank">
     <img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" />
