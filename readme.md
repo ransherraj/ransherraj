@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on `Spring Boot + React` projects  
 - 🌱 Learning `Spring Boot` & `System Design`  
 - 💬 Ask me about **React, Java, Node.js, PostgreSQL**  
-- 📫 Reach me at [ransherraj@gmail.com](mailto:ransherraj@gmail.com)
+- 📫 Reach me at [ransherraj@gmail.com](mailto:contact.ransherraj@gmail.com)
 
 ---
 
