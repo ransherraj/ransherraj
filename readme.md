@@ -3,12 +3,6 @@
 <h3 align="center">🚀 Full Stack Developer | Java | React | Node.js</h3>
 
 <p align="center">
-  <a href="https://twitter.com/ransherraj?ref_src=twsrc%5Etfw" 
-   class="twitter-follow-button" 
-   data-show-count="false">
-   Follow @ransherraj
-</a>
-
   <a href="https://github.com/ransherraj" target="_blank">
     <img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" />
   </a>
