@@ -93,13 +93,15 @@
 <!-- WakaTime -->
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 635.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 118 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -163,7 +165,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 01:38:20 UTC
+ Last Updated on 23/05/2025 01:38:23 UTC
 <!--END_SECTION:waka-->
 
 ---
