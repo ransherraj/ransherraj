@@ -95,7 +95,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -165,7 +165,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 01:41:31 UTC
+ Last Updated on 27/05/2025 01:37:37 UTC
 <!--END_SECTION:waka-->
 
 ---
