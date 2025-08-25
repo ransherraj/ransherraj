@@ -95,11 +95,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 635.5 kB Used in GitHub's Storage 
+> 📦 635.6 kB Used in GitHub's Storage 
  > 
 > 🏆 126 Contributions in the Year 2025
  > 
@@ -151,11 +151,11 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -165,7 +165,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 01:45:02 UTC
+ Last Updated on 25/08/2025 01:40:04 UTC
 <!--END_SECTION:waka-->
 
 ---
