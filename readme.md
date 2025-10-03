@@ -93,8 +93,6 @@
 <!-- WakaTime -->
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -109,45 +107,6 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-🌆 Daytime                184 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌃 Evening                216 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌙 Night                  185 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Wednesday                96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Thursday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Sunday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -165,7 +124,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:22:20 UTC
+ Last Updated on 03/10/2025 01:22:26 UTC
 <!--END_SECTION:waka-->
 
 ---
