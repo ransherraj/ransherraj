@@ -93,15 +93,13 @@
 <!-- WakaTime -->
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 652.2 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 55 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -109,51 +107,6 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-🌆 Daytime                201 commits         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-🌃 Evening                241 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌙 Night                  206 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Tuesday                  119 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Thursday                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Saturday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -171,7 +124,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:33:32 UTC
+ Last Updated on 07/08/2026 02:39:52 UTC
 <!--END_SECTION:waka-->
 
 ---
