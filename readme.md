@@ -1,203 +1,297 @@
-<!-- Profile Section -->
+<!-- ========================================================= -->
+<!--                       HERO SECTION                        -->
+<!-- ========================================================= -->
+
 <h1 align="center">Hi 👋, I'm Ransher Raj Verma</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | React | Node.js</h3>
+
+<h3 align="center">
+  Software Engineer @ Samsung SDS • AI / GenAI • Full Stack • Backend & Distributed Systems
+</h3>
 
 <p align="center">
-  <a href="https://github.com/ransherraj" target="_blank">
-    <img src="https://img.shields.io/github/followers/ransherraj?label=Follow&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/ransherraj">
+    <img src="https://img.shields.io/badge/GitHub-ransherraj-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://bookrr.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge&logo=netlify" alt="Project" />
+  <a href="https://www.linkedin.com/in/ransherraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ransher%20Raj%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ransherraj/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://ransherraj.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="mailto:official.ransherraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://amleefa-ai.netlify.app">
+    <img src="https://img.shields.io/badge/🤖_Amleefa_AI-Live_Project-6E56CF?style=for-the-badge" />
+  </a>
+  <a href="https://bookrr.netlify.app">
+    <img src="https://img.shields.io/badge/🛒_Bookrr-Live_Project-2EA44F?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<!-- About Section -->
-### 🧑 About Me
-- 🔭 I’m currently working on `Spring Boot + React + Node` projects  
-- 🌱 Learning `Spring Boot` & `System Design`  
-- 💬 Ask me about **React, Java, Node.js, PostgreSQL**  
-- 📫 Reach me at [contact.ransherraj@gmail.com](mailto:contact.ransherraj@gmail.com)
+## 👨‍💻 About Me
+
+Software Engineer with **4+ years of experience at Samsung SDS**, building enterprise-grade backend, full-stack and AI-driven applications.
+
+I work across **Java/Spring Boot, C#/.NET, Node.js, React.js and Next.js**, with hands-on experience designing REST APIs, microservices, database architectures, CI/CD pipelines and distributed application workflows.
+
+My recent work focuses on **Generative AI and LLM-powered systems**, including AI-OCR pipelines, semantic and fuzzy classification, LLM-based inference, confidence scoring and human-in-the-loop workflows.
+
+I enjoy solving engineering problems around **system design, scalability, performance, automation and intelligent software systems**.
 
 ---
 
-<!-- Skills Section -->
-### 🛠 Tech Stack
+## 🚀 What I Build
 
-#### 👨‍💻 Languages  
+- 🤖 **LLM & GenAI Applications**
+- 🔎 **Semantic Search & Intelligent Classification**
+- 📄 **AI-OCR & Document Processing Pipelines**
+- 🧠 **LLM-powered Full Stack Applications**
+- ⚙️ **REST APIs & Microservices**
+- 🏗️ **Backend & Distributed Systems**
+- 📊 **Enterprise Data & Business Workflows**
+- ⚡ **Performance Optimization & Query Tuning**
+- 🔐 **Authentication, Authorization & Secure APIs**
+- 🚀 **Cloud Deployment & CI/CD Automation**
+
+---
+
+# 🧠 AI / GenAI
+
+### Production Experience
+
+![LLM](https://img.shields.io/badge/LLM-Applications-6E56CF?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Applications-FF6F00?style=for-the-badge)
+![AI OCR](https://img.shields.io/badge/AI--OCR-Document_Processing-4285F4?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-4285F4?style=for-the-badge)
+![Fuzzy Matching](https://img.shields.io/badge/Fuzzy_Matching-7B61FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge)
+![AI Classification](https://img.shields.io/badge/AI_Classification-FF4081?style=for-the-badge)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-00A67E?style=for-the-badge)
+
+### Currently Learning / Building
+
+![RAG](https://img.shields.io/badge/RAG-Learning_%26_Building-FF6F00?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Learning-4285F4?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-Learning-7B61FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge)
+
+---
+
+# 💻 Full Stack Engineering
+
+## Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Backend Concepts
+
+- RESTful API Design
+- Microservices
+- Distributed Systems
+- API Architecture
+- Authentication & Authorization
+- OAuth2 / JWT
+- Role-Based Access Control
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- API Performance Optimization
+- Query Optimization
+- Distributed Caching
+- Background Jobs & Task Scheduling
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Concepts
 
-#### ⚙ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- React Hooks
+- Component Architecture
+- State Management
+- Next.js App Router
+- Server & Client Components
+- API Integration
+- Responsive UI
+- Form Handling
+- Performance Optimization
+- AI Chat Interfaces
+- Real-time User Interactions
 
-#### 🗄️ Databases  
+---
+
+# 🗄️ Databases & Data
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Database Engineering
+
+- Relational Database Design
+- Schema Design
+- Stored Procedures
+- SQL Query Optimization
+- Indexing
+- Transactions
+- Data Validation
+- PostgreSQL / SQL Server
+- MongoDB Data Modeling
+- Redis Distributed Caching
+
+---
+
+# ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### DevOps
+
+- CI/CD Pipelines
+- Dockerized Applications
+- Build & Deployment Automation
+- Environment Configuration
+- Cloud Deployment
+- Git-based Development
+- Production Troubleshooting
+- Application Monitoring & Observability
 
 ---
 
-<!-- GitHub Stats -->
-### 📈 GitHub Stats
+# 🧰 Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransherraj&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=radical" width="98%" />
-</p>
-
----
-
-<!-- Top Languages -->
-### 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransherraj&layout=compact&theme=radical&langs_count=8" width="50%" />
-</p>
-
----
-
-### 💬 Languages I Use Frequently
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
----
-
-<!-- WakaTime -->
-### ⏱️ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 652.3 kB Used in GitHub's Storage 
- > 
-> 🏆 68 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 27 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-🌆 Daytime                202 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-🌃 Evening                245 commits         ████████░░░░░░░░░░░░░░░░░   33.65 % 
-🌙 Night                  217 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Thursday                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Friday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Sunday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ransherraj/ransherraj/main/assets/bar_graph.png)
-
-
- Last Updated on 18/08/2026 01:12:27 UTC
-<!--END_SECTION:waka-->
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-<!-- Trophies -->
-### 🏆 GitHub Trophies
+# 🏢 Professional Experience
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ransherraj&theme=radical&row=1&column=6" />
-</p>
+### Samsung SDS
+**Software Engineer | 4+ Years**
 
----
+Working on enterprise software systems involving:
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ransherraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ransherraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:ransherraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 💡 Fun Fact
-
-> 🧠 *Coding is like humor. If you have to explain it, it’s probably not that good.*
+- High-volume REST APIs and microservices
+- Java Spring Boot and C#/.NET backend systems
+- React-based enterprise applications
+- SQL Server database architecture and optimization
+- AI-OCR and intelligent data processing
+- Semantic, fuzzy and LLM-based classification
+- Human-in-the-loop AI workflows
+- CI/CD and production deployments
+- Distributed caching and performance optimization
 
 ---
 
+# 🚀 Featured Projects
+
+## 🤖 Amleefa AI — AI Interview Platform
+
+**Next.js • React • TypeScript • PostgreSQL • Prisma • Groq • Llama 3.3 70B**
+
+An LLM-powered interview platform designed for technical interview preparation.
+
+### Highlights
+
+- AI-driven technical interview conversations
+- Code evaluation workflows
+- System design interview simulation
+- LLM-powered responses and evaluation
+- Persistent multi-turn sessions
+- PostgreSQL + Prisma data layer
+- Web Speech API integration
+- Production deployment on Netlify
+
+🔗 **Live:** https://amleefa-ai.netlify.app
+
+---
+
+## 🛒 Bookrr — Full Stack E-Commerce Platform
+
+**Node.js • Express.js • React • MongoDB • Redis • REST APIs**
+
+A full-stack e-commerce platform with customer and administrative workflows.
+
+### Highlights
+
+- JWT authentication
+- Cart and product workflows
+- Payment integration
+- Inventory management
+- RESTful backend APIs
+- MongoDB data modeling
+- Redis caching
+- Administrative analytics
+
+🔗 **Live:** https://bookrr.netlify.app
+
+---
+
+# 🧠 Engineering Focus
+
+```text
+AI / GenAI
+    │
+    ├── LLM Applications
+    ├── AI-OCR
+    ├── Semantic Search
+    ├── Classification
+    ├── RAG → Learning / Building
+    └── LLM-powered Applications
+          │
+          ▼
+Full Stack Engineering
+    │
+    ├── Next.js / React
+    ├── Node.js
+    ├── Java / Spring Boot
+    └── C# / .NET
+          │
+          ▼
+Backend & Distributed Systems
+    │
+    ├── REST APIs
+    ├── Microservices
+    ├── Caching
+    ├── Database Optimization
+    └── System Design
+          │
+          ▼
+Cloud & DevOps
+    │
+    ├── AWS
+    ├── Docker
+    ├── CI/CD
+    └── Azure DevOps
