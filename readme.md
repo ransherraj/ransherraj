@@ -259,6 +259,89 @@ A full-stack e-commerce platform with customer and administrative workflows.
 
 ---
 
+---
+
+# 🏆 Achievements
+
+- 🥇 **Top 1% — Samsung Professional Coding**
+- 🥈 **2nd Place — Samsung Code Fest**
+- 💻 **500+ DSA Problems Solved**
+- 🎓 **B.Tech — NIT Silchar | CGPA: 8.96/10**
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ransherraj&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ransherraj&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransherraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    width="45%"
+  />
+</p>
+
+---
+
+# 📈 GitHub Profile
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ransherraj&theme=tokyonight"
+    width="98%"
+  />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ransherraj/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/ransherraj">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://ransherraj.netlify.app">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:official.ransherraj@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable software, intelligent systems, and AI-native applications.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+
 # 🧠 Engineering Focus
 
 ```text
@@ -295,3 +378,4 @@ Cloud & DevOps
     ├── Docker
     ├── CI/CD
     └── Azure DevOps
+
